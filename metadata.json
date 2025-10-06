@@ -1,0 +1,5 @@
+{
+  "name": "Shipping Label Extractor",
+  "description": "An application to upload images of shipping labels and extract key information into a structured table, similar to an Excel sheet, using AI.",
+  "requestFramePermissions": []
+}
